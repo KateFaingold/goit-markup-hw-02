@@ -133,9 +133,7 @@
      text-transform: capitalize;
  }
 
- .team-list {
-     background-color: #FFFFFF;
- }
+ .team-list {}
 
  .team-item {
      background-color: #FFFFFF;
@@ -161,7 +159,7 @@
  }
 
  .portfolio {
-     background-color: #f4f4fd;
+     background-color: #fff;
  }
 
  .portfolio-title {
